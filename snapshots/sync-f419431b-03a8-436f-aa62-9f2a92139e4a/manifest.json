@@ -1,0 +1,33 @@
+{
+  "id": "sync-f419431b-03a8-436f-aa62-9f2a92139e4a",
+  "createdAt": "2026-09-05T16:26:01.241Z",
+  "manifest": {
+    "schemaVersion": 1,
+    "dshVersion": "0.1.2-rc.1",
+    "platform": "darwin",
+    "sectionIds": [
+      "settings",
+      "ui",
+      "providers",
+      "plugins",
+      "prompts",
+      "skills",
+      "agentPresets",
+      "agentInstructions",
+      "self"
+    ],
+    "containsSecrets": false,
+    "transport": "git"
+  },
+  "sectionHashes": {
+    "settings": "cadd9f375720097abc60c2b5edb061b71034e1f62aa30f9d24d9aca2e24693ea",
+    "ui": "e73f8bb56928a19f1c15aa022e261ddbf373ed3c17e49fec82fa200d43541681",
+    "providers": "332b980b3ea5c14c6b7c32622b91fb804bff5b47e7fe6b0c8fccd7420f18a02e",
+    "plugins": "64ad726a443b41b02f2afffbe753b6d5235349ebb1f0c71db4d1489d4e412b70",
+    "prompts": "23d05fd89e9e61985416d8fb3dfc30e5aae4298aa4f684f2a0391b49d70e8cfd",
+    "skills": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "agentPresets": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "agentInstructions": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "self": "216f7f5fde534145b236cba2de62999a1347af36b54ceb94beff405b09906452"
+  }
+}
