@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "channels": {
+    "git": {
+      "enabled": true,
+      "interval": "30m",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 0,
+      "lastRunAt": "2026-09-06T21:10:16.178Z",
+      "lastRunStatus": "success",
+      "lastRunHistoryId": "autosync-0f45ff6e-6875-48c7-a15e-2ad4325feb91"
+    },
+    "webdav": {
+      "enabled": false,
+      "interval": "30m",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 0
+    }
+  }
+}
