@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "channels": {
+    "git": {
+      "enabled": true,
+      "interval": "30m",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 0,
+      "lastRunAt": "2026-09-08T12:32:04.541Z",
+      "lastRunStatus": "success",
+      "lastRunMessage": "git pull 失败: fatal: unable to access '[REPO_URL]/': LibreSSL SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443 \n",
+      "lastRunHistoryId": "autosync-4c4f8b02-9b5c-4a9f-adf4-3939e3ba3136"
+    },
+    "webdav": {
+      "enabled": false,
+      "interval": "30m",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 0
+    }
+  }
+}
